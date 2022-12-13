@@ -22,4 +22,3 @@ I jumped back and forth between understanding a data structure and then solving 
 Also, never try to memorize solutions. I used to memorize math and physics formulas as a kid. It's easy. But algorithms are far more than that. They teach you how to reason and recognize patterns. I honestly am enjoying this learning process. It's like solving mini puzzles for fun.
 
 Enough said, time to code!
-
