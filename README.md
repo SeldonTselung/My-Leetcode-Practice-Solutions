@@ -18,3 +18,15 @@ I jumped back and forth between understanding a data structure and then solving 
 Also, just a suggestion, never try to memorize solutions. I used to memorize math and physics formulas as a kid. But algorithms don't operate through plug and chug strategy. They teach you how to reason and recognize patterns. If you can achieve that, then you can attempt to solve any problem. In the meantime, challenge your thought process.
 
 Enough said, it's time to algo!
+
+TEMPLATE
+
+/* Problem Statement
+
+*/
+
+/* =========================== MY APPROACH ===========================
+
+*/
+
+/* =========================== MY SOLUTION =========================== */
