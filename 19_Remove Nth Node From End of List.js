@@ -38,10 +38,10 @@ the first node, so we simply return head.next as our solution or assign head to 
 1 -> 2 -> 3 -> 4 -> 5 -> null
 |
 h
-
 */
 
 /* =========================== MY SOLUTION =========================== */
+
 var removeNthFromEnd = function(head, n) {
     let curr = head;
     let n2r = head;
