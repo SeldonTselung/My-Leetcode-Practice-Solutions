@@ -5,8 +5,6 @@ my approach and my coded solution.
 
 I try my best to optimize time and space and as such AVOID taking shortcuts or using built-in methods if they add unnecessary time or modify the original data.
 
-I spent several hours, weeks and months to understand the fundamentals of data structures through several different resources.
-
 Online resources:
 Udemy, Codecademy,YouTube, Structy, Educative, LinkedIn Learning, LeetCode
 
