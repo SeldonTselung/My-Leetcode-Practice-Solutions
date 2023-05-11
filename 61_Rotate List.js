@@ -1,7 +1,16 @@
 
+/* ======================== Problem Statement ========================
 Given the head of a linked list, rotate the list to the right by k places.
+*/
 
-//---------//
+/* =========================== MY APPROACH ===========================
+Find the new head 
+
+
+
+*/
+
+/* =========================== MY SOLUTION =========================== */
 
 var rotateRight = function(head, k) {
     if (head === null || k === 0) return head;
